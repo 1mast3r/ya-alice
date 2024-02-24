@@ -1,5 +1,8 @@
 Yandex Alice is a voice assistant from the Yandex company, designed to help users with everyday tasks, managing a smart home, searching for information on the Internet and much more. Here is a general overview of the documentation for working with Yandex Alice, including main functions, integration and skills development.
 
+WARNING!!! Do not download Alice source code via "git clone" download via Releases
+
+
 ## 1. Basic functions
 
   • Voice commands: Alice understands and follows commands given by voice.
